@@ -7,7 +7,7 @@
 :root {
   --font-family: 'Poppins' , sans-serif;
   --text: 400 1rem/1.5 var(--font-family);
-  --text-sm: 400 0.85rem/1.4 var (--font-family);
+  --text-sm: 400 0.85rem/1.4 var(--font-family);
 
   --text-primary: #292524;
   --text-secondary: #57534E;
@@ -18,9 +18,9 @@
   --surface-secondary: #FEE7D6;
 
   --stroke-default: #D6D3D1;
-  --strocke-hightlight:#F3541C; 
+  --stroke-hightlight:#F3541C; 
   --semantic-error: #DC2626;
-  zoom: 60%;
+  
 
 }
 body {
